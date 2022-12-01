@@ -1,0 +1,1 @@
+say Example Datapack Reloaded Successfully!
