@@ -1,1 +1,1 @@
-say Example Datapack Reloaded Successfully!
+say Dungeon Datapack Reloaded Successfully!
