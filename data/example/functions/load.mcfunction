@@ -1,4 +1,3 @@
 say Dungeon Datapack Reloaded Successfully! ble
 say ble
-
-say jakjkajklfjlfjiejfeihfioejfioehfiorehgioregjoeirhgiore
+say wow
